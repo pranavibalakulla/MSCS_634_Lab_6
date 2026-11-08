@@ -1,6 +1,7 @@
 # Lab 6: Association Rule Mining with Apriori and FP-Growth
 
-**Student:** Pranavi Balakulla · **Course:** MSCS 634
+**Student:** Pranavi Balakulla 
+**Course:** MSCS 634
 
 ## Purpose
 This lab applies association rule mining to real retail transactions to find products that customers buy together.
